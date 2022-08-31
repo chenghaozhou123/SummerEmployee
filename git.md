@@ -1,3 +1,7 @@
+
+
+ git remote add <名称> <地址> //连接到远程仓库
+
 git 操作
 
 git add . 添加修改 git reset xx 取消要提交的变更

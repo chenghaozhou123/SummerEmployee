@@ -296,3 +296,7 @@ incomestatement:
 [2022-08-29 09:49:15,556] [ERROR] Con_Forecast_Stk on 2022-08-26 00:00:00 daily_save error: 字段con_eps_hisdate 数据格式为<class 'pandas._libs.tslibs.nattype.NaTType'>，protobuf序列化无法解析,expect: int, float, bool, str,datetime
 
 ```
+
+24
+
++26+24
