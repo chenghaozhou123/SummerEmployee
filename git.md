@@ -91,3 +91,33 @@ git pull <remoterepo_name> <branch_name>
 git checkout yy
 
 git pull origin xx
+
+# 使用过程
+
+git init 初始化
+
+git remote add <名称> <地址>
+
+git config --global user.name
+
+git config --global user.email
+
+git branch work_company
+
+git add .
+
+git commit
+
+git push -u origin work_company
+
+token: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
+
+
+
+# 解决：fatal: unable to access ‘https://github.com/Homebrew/brew/‘: Error in the HTTP2 framing layer
+
+```sh
+git config --global --unset http.proxy 
+git config --global --unset https.proxy
+```
+

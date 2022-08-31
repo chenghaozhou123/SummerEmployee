@@ -297,6 +297,15 @@ incomestatement:
 
 ```
 
-24
+8.31
 
-+26+24
+总共71个类型的
+
+```python
+偶尔会爆一下两个错
+ERROR:root:AShareBalanceSheet on 2019-04-10 12:00:00 daily_save error: Unable to cast Python instance to C++ type (compile in debug mode for details)
+
+ERROR:root:AShareEODDerivativeIndicator on 2019-04-09 12:00:00 daily_save error: cannot convert float NaN to integer
+
+```
+
