@@ -91,3 +91,5 @@ git pull origin xx
 
 
 git merge work_company 部分冲突后我准备去work_company做一下push的，然后报错需要解决当前索引的冲突，使用git reset --hard回到之前的版本
+
+token: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
